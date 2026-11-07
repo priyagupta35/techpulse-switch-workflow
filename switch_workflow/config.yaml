@@ -1,0 +1,4 @@
+﻿room:
+  name: "techpulse-ops-room"
+  platform: "slack"
+  channel: "#techpulse-alerts"
